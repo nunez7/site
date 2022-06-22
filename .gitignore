@@ -24,6 +24,7 @@ application/logs/*
 #Aplication
 .htaccess
 /css/
+/aplication/config/
 /cursos/
 /documentos/
 /fonts/
