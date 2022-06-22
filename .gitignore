@@ -19,12 +19,12 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
+/application/config/
 /vendor/
 
 #Aplication
 .htaccess
 /css/
-/aplication/config/
 /cursos/
 /documentos/
 /fonts/
