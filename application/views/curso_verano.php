@@ -1,0 +1,3 @@
+<p>Este jueves 16 de julio el Rector de la Universidad Tecnológica de la Costa, <strong>Ing. Manuel Quintero Borrego</strong>, aperturó de manera oficial las actividades del <strong>Curso de Verano Infantil UT de la Costa 2015</strong>.</p>
+<p>En el mensaje de bienvenida, agradeció la confianza que los padres de familia depositan en la Institución al permitir que sus pequeños acudan a este curso que tiene como propósito que los niños del Municipio tengan unas vacaciones inolvidables, disfrutando del 16 julio al 7 de agosto de actividades artísticas, recreativas, teatrales y muchas sorpresas más.</p>
+<p class="reduced">Agregar como dato que las personas interesadas aún pueden inscribirse teniendo como fecha limite el lunes 20 de julio.</p>

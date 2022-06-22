@@ -1,0 +1,4 @@
+<p>El apoyo al deporte es una      actividad constante en la Universidad Tecnológica de la Costa, es por ello que con una inversión de $15,000,  continúan en la Institución los trabajos de nivelación de      2 ½ hectáreas de terreno, espacio en el cual se ubicará  la cancha de <strong>Fútbol Soccer</strong> y la <strong>Pista de Atletismo</strong>, ambas  con medidas oficiales.</p> 
+<p>En este sentido, el Rector de la Institución, <strong>Ing. Manuel Quintero Borrego</strong> declaró:
+“<em>La Universidad Tecnológica de la Costa  cuenta con jóvenes talentosos no solo en el área académica, sino también en el  deporte, es por esta razón que generamos espacios para que nuestros alumnos exploten sus habilidades deportivas, como parte de su formación integral</em>”.</p>
+<p>Agregar que la práctica de actividades deportivas permite fomentar valores como: <strong>Competitividad, Trabajo en Equipo, Honestidad,  Liderazgo y Compromiso</strong>, solo por mencionar algunos.</p>

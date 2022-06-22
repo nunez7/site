@@ -1,0 +1,2 @@
+<p>Gracias a las aportaciones e iniciativa de Alumnos, Directivos, Personal Docente y Administrativo, este viernes 22 de septiembre la Universidad Tecnológica de la Costa, entregó al Centro de Acopio de la Cruz Roja los víveres recaudados en la Institución, a fin de que éstos lleguen a las personas que fueron afectadas por el sismo en CDMX y diferentes Estados de la República.</p>
+<p><br></p>

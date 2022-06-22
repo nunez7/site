@@ -1,0 +1,6 @@
+<p>Con una Jornada Literaria denominada  "Cuentan en el Estanque" este martes 24 de abril, la Sala de Lectura La Piedra en el Estanque de la Universidad Tecnológica de la Costa festejó el Día Internacional del Libro, contando con la asistencia de Niños de la Primaria Eduardo Martínez Ochoa, padres de familia, de Santiago Ixcuintla,  personal de la Institución, hijos de trabajadores y alumnos integrantes de la Sala de Lectura.
+</p>
+<p>La bienvenida estuvo a cargo del el M.G.T.I Vladimir Iván Gutiérrez Morales, Director de la División de Ingeniería Ciencia  y Tecnología, en representación  del  Rector de  la  Institución L.A.E Miguel Salinas Ramírez.
+</p>
+<p>Vale la pena destacar que dicha jornada fue impartida  por Mediadoras de Salas de Lectura del Estado de Nayarit en un ambiente de comodidad y  los asistentes tuvieron la oportunidad de fortalecer la lectura y escritura por placer, así como las lenguas maternas, al realizar una narración en lengua wirrarika por parte de la joven Julia Díaz Ortega  Alumna de la Ingeniería en Tecnologías de la Información y Comunicación.</p>
+<p>Las actividades concluyeron con la entrega de reconocimientos a las mediadoras como muestra de agradecimiento por su labor encaminada a fomentar la lectura y escritora con chicos y grandes.</p>

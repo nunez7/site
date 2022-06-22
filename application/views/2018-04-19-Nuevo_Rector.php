@@ -1,0 +1,3 @@
+<p>Este jueves 19 de abril el Coordinador Estatal de las Universidades Tecnológicas y Rector de la Universidad Tecnológica de Nayarit M.C.A. José Andrés Rodríguez Domínguez presentó al Lic. Miguel Salinas Ramírez como nuevo Rector de la Universidad Tecnológica de la Costa, lo anterior se llevó a cabo en presencia de Personal Directivo de la Universidades Tecnológicas de Nayarit  y personal en general de la UT de la Costa.</p>
+<p>En el evento Salinas Ramírez asumió el compromiso de trabajar arduamente impulsando la educación de la Zona Norte del Estado, mantener los indicadores que emanan de la Coordinación General de Universidades Tecnológicas y Politécnicas  en los mejores niveles y trabajar mano a mano con el personal de la Institución.
+</p>
