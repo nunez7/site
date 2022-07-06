@@ -85,13 +85,13 @@
       </div>
       <div class="col-sm-3">
         <div class="media m-top-lg">
-          <a href="<?php echo base_url(); ?>documentos/Resultados-EXANII-Abril-Agosto2019.pdf" title="">
+          <a href="<?php echo base_url(); ?>documentos/RESULTADOS EXANI-II 11-JUN-2022.pdf" title="">
             <div class="media-left">
               <img class="media-object" src="<?php echo base_url(); ?>img/icons/document.png" alt="...">
             </div>
             <div class="media-body">
               <h4 class="media-heading">Resultados EXANI-II</h4>
-              <p>Abril- Agosto de 2019</p>
+              <p>Abril- Agosto de 2022</p>
             </div>
           </a>
         </div>
@@ -352,6 +352,19 @@
         <div class="media-body">
           <h4 class="media-heading">Resumen de CV</h4>
           <p>&nbsp;</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="media m-top-lg">
+      <a href="<?php echo site_url("event/all");?>" title="">
+        <div class="media-left">
+          <img class="media-object" src="<?php echo base_url(); ?>img/icons/ico-talk.png" alt="...">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Eventos</h4>
+          <p><i>Nuevo</i></p>
         </div>
       </a>
     </div>
